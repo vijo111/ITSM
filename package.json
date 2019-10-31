@@ -1,0 +1,29 @@
+{
+  "name": "itsm-bot",
+  "version": "1.0.0",
+  "description": "itsm",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "CIT.",
+  "license": "MIT",
+  "keywords": [
+    "botbuilder",
+    "bots",
+    "chatbots"
+  ],
+  "dependencies": {
+    "bluebird": "^3.4.7",
+    "botbuilder": "^3.9.0",
+    "restify": "^5.0.1",
+    "swagger-client": "^2.1.32",
+    "dotenv-extended": "^1.0.4",
+    "url": "latest",
+    "fs": "latest",
+    "util": "latest",
+    "apiai": "latest",
+    "api-ai-recognizer": "latest",
+    "request": "latest"
+
+  }
+}
